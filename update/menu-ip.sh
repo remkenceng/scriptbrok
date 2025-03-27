@@ -110,7 +110,7 @@ echo -e "$COLOR1┌────────────────────�
 echo -e "$COLOR1│${NC} ${COLBG1}               • REGISTER IPVPS •              ${NC} $COLOR1│$NC"
 echo -e "$COLOR1└─────────────────────────────────────────────────┘${NC}"
 echo -e "$COLOR1┌─────────────────────────────────────────────────┐${NC}"
-rm -rf /root/izinvps
+rm -rf /root/izinip
 read -p "│  NEW IPVPS : " daftar
 echo -e "$COLOR1│${NC}"
 echo -e "$COLOR1│${NC}  [INFO] Checking the IPVPS!"
